@@ -1,0 +1,53 @@
+# Student Details SQL Analysis
+
+This project contains a dataset of Indian students along with SQL queries used to extract meaningful insights related to payments, courses, and student behavior.
+
+## 📌 Project Overview
+The goal of this project is to analyze student data using SQL and practice:
+- Basic SQL operations
+- Data filtering
+- Sorting & limiting
+- Aggregate functions (SUM, AVG, MIN, MAX, COUNT)
+- Pattern matching (LIKE)
+- Conditional filters (IN, BETWEEN)
+
+## 📂 Dataset
+The dataset includes:
+- Student Name  
+- Course Name  
+- Payment Date  
+- Payment Status  
+- State  
+- Price  
+- Payment ID  
+
+Dataset file: `Indian_Students_Data.csv`  
+SQL code file: `student_details_command.sql`
+
+## 🛠 SQL Skills Used
+- CREATE TABLE  
+- COPY / LOAD data  
+- SELECT & WHERE clauses  
+- ORDER BY  
+- LIMIT & OFFSET  
+- Comparison operators  
+- BETWEEN  
+- LIKE  
+- IN  
+- Aggregate functions  
+- Counting unique values  
+
+## 📊 Insights Extracted
+- Students enrolled in specific courses  
+- Payments before/after certain dates  
+- Total revenue, average price, highest & lowest price  
+- Count of students by state  
+- Records filtered by payment status  
+- Records sorted by student names  
+
+## 🧰 Tools & Technologies
+- PostgreSQL / MySQL
+- DBeaver / pgAdmin (optional)
+
+## ✨ Author
+Sharmistha Shekharee Biswal
